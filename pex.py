@@ -10,7 +10,7 @@ class Pex(commands.Cog):
     @commands.command()
     @commands.has_permissions(manage_roles=True)
     async def pex(self, ctx, member: discord.Member, reason=None):
-        role_hierarchy = ['utente', 'helper', 'mod', 'admin']
+        role_hierarchy = ["Your roles"]
         # Ottieni i ruoli dell'utente in ordine di priorità
         member_roles = [role.name for role in member.roles]
         await ctx.message.delete()
