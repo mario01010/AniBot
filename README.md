@@ -1,6 +1,6 @@
 # Discord Moderation Bot
 
-This is a moderation bot for Discord written in Python using the `discord.py` library. The bot provides moderation functionalities such as kick, ban, warnings (warn), and anti-spam.
+This is a moderation bot for Discord written in Python using the `discord.py` library. The bot provides moderation functionalities such as kick, ban, warnings (warn), and auto chat moderation.
 
 ## Features
 
