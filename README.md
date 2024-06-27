@@ -38,3 +38,8 @@ This is a moderation bot for Discord written in Python using the `discord.py` li
     - `!userinfo @user`: User info.
     - `!botinfo`: Bot info.
     - `!aiuto`: Help for commands.
+    - `!addrole @user [role]`: Give a role from a user.
+    - `!removerole @user [role]`: Remove a role from a user.
+    - `!pex @user`: Pex a user.
+    - `!depex @user`: Depex a user.
+    - `!createrole [role name] [permissions]`: Create a custom role.
